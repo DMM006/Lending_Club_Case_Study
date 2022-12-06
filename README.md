@@ -1,4 +1,4 @@
-# Project Name
+# # Lending Club Case Study
 > Outline a brief description of your project.
 
 
@@ -19,10 +19,13 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+The analysis presented above is related to Loan data Set. 
+- The aim of this analysis to reduce the loss percentage of Consumer Finance Company by providing the loan to loan applicants
+- This detailed analysis of loan dataset using EDA addresses the two key challeges 
+    - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+    - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
+- The analysis presented above, identifies the number of Good_loan and Bad_loans using various EDA process and, also identify the staticstics to approve Full loan and Defaulted loan based on the loan applications. 
+- Hence, by identifing staticstics to Full approved loan and dfaulted loan, reduces the loss percentage for the Finance Company
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 

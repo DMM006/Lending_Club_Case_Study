@@ -6,13 +6,7 @@
     - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
     - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
 `<img src = "Dataset/Case.png">`
-- When a person applies for a loan, there are two types of decisions that could be taken by the company:
-    - __Loan accepted__: If the company approves the loan, there are 3 possible scenarios described below:
-        - __Fully paid__: Applicant has fully paid the loan (the principal and the interest rate) 
-        - __Current__: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. These candidates are not labelled as 'defaulted'.
-        - __Charged-off__: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan
-     - __Loan rejected__: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
-- The above figure illustrate the same
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -21,10 +15,21 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This analysis highlights the Exploratory Data Analysis (EDA) for Loan Data Set
+- Various EDA process as been carried for loan dataset such as
+    - Data Sourcing
+    - Data cleaning
+    - Univariate analysis
+    - Bivariate analysis
+    - Derived metrics
+- Below represents the problem statement for loan data set
+- When a person applies for a loan, there are two types of decisions that could be taken by the company:
+    - __Loan accepted__: If the company approves the loan, there are 3 possible scenarios described below:
+        - __Fully paid__: Applicant has fully paid the loan (the principal and the interest rate) 
+        - __Current__: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. These candidates are not labelled as 'defaulted'.
+        - __Charged-off__: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan
+     - __Loan rejected__: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
+- The above figure illustrate the same
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 

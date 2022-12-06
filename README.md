@@ -5,7 +5,7 @@
 - Two types of risks are associated with the bank’s decision:
     - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
     - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
- ![Case](https://user-images.githubusercontent.com/119028946/205984342-9bc19f4d-8569-473f-8a4b-661e93fa1fe2.png)
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -23,6 +23,7 @@
     - Derived metrics
 - Various visual graphs such as matplotlib and seaborn are used for Exploratory Data Analysis
 - The Problem Statement is as follows
+![Case](https://user-images.githubusercontent.com/119028946/205984342-9bc19f4d-8569-473f-8a4b-661e93fa1fe2.png)
 - When a person applies for a loan, there are two types of decisions that could be taken by the company:
     - __Loan accepted__: If the company approves the loan, there are 3 possible scenarios described below:
         - __Fully paid__: Applicant has fully paid the loan (the principal and the interest rate) 

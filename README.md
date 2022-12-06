@@ -5,6 +5,7 @@
 - Two types of risks are associated with the bank’s decision:
     - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
     - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
+ ![Case](https://user-images.githubusercontent.com/119028946/205984342-9bc19f4d-8569-473f-8a4b-661e93fa1fe2.png)
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)

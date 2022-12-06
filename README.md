@@ -20,8 +20,8 @@
     - Univariate analysis
     - Bivariate analysis
     - Derived metrics
-- Various visual graghs such as matplotlib and seaborn are used for Exploratory Data Analysis
-- Below represents the problem statement of loan data set
+- Various visual graphs such as matplotlib and seaborn are used for Exploratory Data Analysis
+- The Problem Statement is as follows
 - When a person applies for a loan, there are two types of decisions that could be taken by the company:
     - __Loan accepted__: If the company approves the loan, there are 3 possible scenarios described below:
         - __Fully paid__: Applicant has fully paid the loan (the principal and the interest rate) 

@@ -5,8 +5,6 @@
 - Two types of risks are associated with the bank’s decision:
     - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
     - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
-`<img src = "Dataset/Case.png">`
-
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -22,7 +20,8 @@
     - Univariate analysis
     - Bivariate analysis
     - Derived metrics
-- Below represents the problem statement for loan data set
+- Various visual graghs such as matplotlib and seaborn are used for Exploratory Data Analysis
+- Below represents the problem statement of loan data set
 - When a person applies for a loan, there are two types of decisions that could be taken by the company:
     - __Loan accepted__: If the company approves the loan, there are 3 possible scenarios described below:
         - __Fully paid__: Applicant has fully paid the loan (the principal and the interest rate) 
@@ -33,6 +32,14 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+
+## Technologies Used
+- Pandas
+- Matplotlib
+- Seaboarn
+
 ## Conclusions
 The analysis presented above is related to Loan data Set. 
 - The aim of this analysis to reduce the loss percentage of Consumer Finance Company by providing the loan to loan applicants
@@ -41,14 +48,6 @@ The analysis presented above is related to Loan data Set.
     - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
 - The analysis presented above, identifies the number of Good_loan and Bad_loans using various EDA process and, also identify the staticstics to approve Full loan and Defaulted loan based on the loan applications. 
 - Hence, by identifing staticstics to Full approved loan and dfaulted loan, reduces the loss percentage for the Finance Company
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- Pandas
-- Matplotlib
-- Seaboarn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
